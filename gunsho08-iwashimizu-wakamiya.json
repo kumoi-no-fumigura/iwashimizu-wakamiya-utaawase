@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/iwashimizu-wakamiya-utaawase",
  "yomi": "いわしみずわかみやうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（三題）",
+  "era": "寛喜4年（1232）",
+  "author": "判者 藤原定家",
+  "desc": "石清水八幡宮の若宮に奉納された歌合。河上霞・暮山花・社頭述懐の三題で、定家・家光・為家・家隆・知家・範宗・行能らが詠み、権中納言定家が判をした。"
+ },
  "editions": [
   {
    "pid": "1879502",
